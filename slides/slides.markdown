@@ -1,6 +1,6 @@
 # CLAHub
 
-![](../images/clipboard2.png)
+![](../images/clipboard.png)
 
 Easy Contributor Agreements on GitHub
 
